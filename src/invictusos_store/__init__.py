@@ -1,0 +1,1 @@
+"""InvictusOS Store desktop application."""
