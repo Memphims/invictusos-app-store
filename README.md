@@ -38,4 +38,4 @@ src/invictusos_store/
 
 ## Current scope
 
-Package discovery and installation use APT and dpkg directly. Test changes with mocked commands where possible; installing or removing packages should only be tested in a disposable Sagaris environment.
+Package discovery and installation use APT and dpkg directly.
